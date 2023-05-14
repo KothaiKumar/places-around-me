@@ -26,7 +26,7 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ## Code:
 ## Map.html
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -76,7 +76,7 @@ Next start the server from the projects main directory using python3 manage.py r
 </html>
 ```
 ## sec.html
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -101,7 +101,7 @@ Next start the server from the projects main directory using python3 manage.py r
 </html>
 ```
 ## sse.html
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -127,7 +127,7 @@ Next start the server from the projects main directory using python3 manage.py r
 </html>
 ```
 ## scad.html
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -155,7 +155,7 @@ Next start the server from the projects main directory using python3 manage.py r
 </html>
 ```
 ## simats.html
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
