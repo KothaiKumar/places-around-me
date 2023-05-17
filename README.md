@@ -184,21 +184,11 @@ Next start the server from the projects main directory using python3 manage.py r
 ## Output:
 ## server output:
 
-![serveroutput_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/45fed57c-d104-4ceb-970c-e7e35a942462)
+
 
 ## client output:
 
-![clgofarch_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/b8a8d77a-79f2-4167-b53b-dfb94494a0f0)
 
-![med tech_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/897f0ab3-322f-4322-819f-e71ffbcbb778)
-
-![sse](https://github.com/KothaiKumar/places-around-me/assets/121215739/817232a9-f063-49c6-bd90-22fef144c21b)
-
-![nursing_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/ad6408ef-78de-4eb4-9e44-a3d7a321cc2b)
-
-![sec_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/bee2856d-404a-499b-b782-e1719b30648f)
-
-![html_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/4af2e18f-c4ef-4cc9-ba77-4aebc34de1b5)
 
 ## Result:
 Hence, a website has been developed to display details about the colleges around saveetha university.
