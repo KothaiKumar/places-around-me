@@ -45,7 +45,7 @@ Next start the server from the projects main directory using python3 manage.py r
         </h1>
         <h3 align="center">
         <font color="blue">
-            SANJAY RAGAVENDAR.M.K(212222100045)
+            Kothai K (212222240051)
         </font>
             
         </h3>
@@ -183,10 +183,22 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ## Output:
 ## server output:
+![serveroutput_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/382c8dda-2b43-4e5e-aa66-6c3a4b5402be)
 
 
 
 ## client output:
+## SEC
+![sec_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/d408f00b-a8bb-4233-ac05-f83be2d9f98c)
+
+##SSE
+![sse](https://github.com/KothaiKumar/places-around-me/assets/121215739/d567e941-439e-4fdc-82bf-37a0017ad1f0)
+
+##SCA
+![clgofarch_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/0d341b21-8da8-459b-8290-b1ae13f34a3c)
+
+##SMCTS
+![med tech_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/a6c0c8d0-0405-4149-8319-04f27e60e8c3)
 
 
 
