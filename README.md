@@ -183,7 +183,8 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ## Output:
 ## server output:
-![serveroutput_places](https://github.com/KothaiKumar/places-around-me/assets/121215739/382c8dda-2b43-4e5e-aa66-6c3a4b5402be)
+![image](https://github.com/KothaiKumar/places-around-me/assets/121215739/e0e70033-cfaf-4175-a7b2-32b4dadf038f)
+
 
 
 
